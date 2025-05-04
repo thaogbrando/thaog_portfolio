@@ -20,7 +20,7 @@ export const metadata: Metadata = {
   openGraph: {
     images: [
       {
-        url: './public/oglogo.png', // Path relative to the public directory
+        url: '/oglogo.png', // Path relative to the public directory
         width: 1200,
         height: 630,
         alt: 'ThaOgBrando Logo',
