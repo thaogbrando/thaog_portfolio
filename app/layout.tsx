@@ -6,6 +6,7 @@ import { ThemeProvider } from "@/hooks/themeProvider"
 import { NextIntlClientProvider } from 'next-intl';
 import { getLocale, getMessages } from 'next-intl/server';
 import Footer from './_components/Footer/Footer';
+import Logo from "@/public/oglogo.png"
 
 const inter = Tektur({
   subsets: ['latin'],
@@ -16,6 +17,9 @@ const inter = Tektur({
 export const metadata: Metadata = {
   title: "ThaOgBrando",
   description: "Just a hobbyist coder enjoying the little things in life. Sólo un programador oficionado que disfruta de las pequeñas cosas de la vida.",
+  openGraph: {
+      images: [`${Logo}`],
+    },
 };
 
 export default async function RootLayout({
