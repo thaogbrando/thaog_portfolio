@@ -93,7 +93,7 @@ const TiltProjectCard = ({ title, year, hasRepo, freelance, link, repo, desc, te
           {freelance ? (t('Freelance')) : (t('Client'))}
         </span>
       </div>
-      <p className='text-sm py-2 font-semibold tracking-wide text-light-text/90 dark:text-dark-text/90'>{desc}</p>
+      <p className='text-sm font-semibold tracking-wide text-light-text/90 dark:text-dark-text/90'>{desc}</p>
     </div>
     
     {/* Tech badges section - positioned above buttons */}
