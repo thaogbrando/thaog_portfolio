@@ -23,7 +23,7 @@ export default function Button({
         <Link
             href={href}
             className={twMerge(
-                "group relative flex w-fit items-center justify-center overflow-hidden rounded-md border-[1px] px-4 py-2 font-bold transition-transform ease-out hover:scale-105 border-light-text/20 text-light-text dark:border-dark-text/20 hover:text-dark-text dark:text-dark-text",
+                "group relative flex w-fit items-center justify-center overflow-hidden rounded-lg border-[1px] px-4 py-2 font-bold transition-transform ease-out hover:scale-105 border-light-text/20 text-light-text dark:border-dark-text/20 hover:text-dark-text dark:text-dark-text",
                 className,
             )}
         >
