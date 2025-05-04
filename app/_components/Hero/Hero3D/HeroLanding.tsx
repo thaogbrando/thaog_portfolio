@@ -67,7 +67,7 @@ const Hero = () => {
 
   return (
     <Bounded
-      className="max-w-[1200px] mx-auto py-16 md:pt-20 lg:pt-32 md:pb-10 place-justify-center px-4 xl:px-0"
+      className="max-w-[1200px] mx-auto py-8 md:pt-20 lg:pt-32 md:pb-10 place-justify-center px-4 xl:px-0"
       ref={component}
     >
       <div className="grid min-h-[70vh] grid-cols-1 items-center md:grid-cols-2">
