@@ -25,8 +25,8 @@ export const metadata: Metadata = {
     images: [
       {
         url: 'https://thaogbrando.com/oglogo.png',
-        width: 1200,
-        height: 630,
+        width: 500,
+        height: 500,
         alt: 'Your Logo',
       },
     ],
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     type: 'website',
   },
   twitter: {
-    card: 'summary_large_image',
+    card: 'summary',
     title: 'ThaOgBrand',
     description: 'Just a hobbyist coder enjoying the little things in life. Sólo un programador oficionado que disfruta de las pequeñas cosas de la vida.',
     images: ['https://thaogbrando.com/oglogo.png'], 
