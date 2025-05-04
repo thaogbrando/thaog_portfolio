@@ -32,13 +32,7 @@ export const metadata: Metadata = {
     ],
     locale: 'en_US',
     type: 'website',
-  },
-  twitter: {
-    card: 'summary',
-    title: 'ThaOgBrand',
-    description: 'Just a hobbyist coder enjoying the little things in life. Sólo un programador oficionado que disfruta de las pequeñas cosas de la vida.',
-    images: ['https://thaogbrando.com/oglogo.png'], 
-  },
+  }
 };
 
 export default async function RootLayout({
