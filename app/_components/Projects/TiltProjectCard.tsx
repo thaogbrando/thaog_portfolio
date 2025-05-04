@@ -85,7 +85,7 @@ const TiltProjectCard = ({ title, year, hasRepo, freelance, link, repo, desc, te
     </div>
     
     {/* Description section */}
-    <div className='flex flex-col justify-center gap-3 text-sm mt-2'>
+    <div className='flex flex-col justify-center gap-1 text-sm my-2'>
       <div className='flex justify-start items-center gap-2 text-light-accent'>
         <h3 className="font-bold text-white">{year}</h3>
         <span>•</span>
