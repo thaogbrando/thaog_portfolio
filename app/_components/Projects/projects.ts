@@ -19,7 +19,7 @@ export const projectList: ProjectProps[] = [
         hasRepo: false,
         freelance: false,
         link: 'https://example.com',
-        technologies: ['nextjs', 'react', 'tailwind', 'mongodb', 'typescript', 'clerk', 'framermotion', 'shadcn']
+        technologies: ['nextjs', 'tailwind', 'mongodb', 'typescript', 'clerk', 'shadcn']
     },
     {
         year: '2022',
