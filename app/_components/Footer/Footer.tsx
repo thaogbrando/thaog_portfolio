@@ -45,7 +45,7 @@ async function Footer() {
             </p>
           </div>
           <nav className="navigation place-items-center" aria-label="Footer Navigation">
-            <ul className="flex items-center gap-1">
+            <ul className="flex justify-center items-center gap-1">
               {navLinks.map((link, index) => (
                 <React.Fragment key={`${index}_${link.value}`}>
                   <li>
