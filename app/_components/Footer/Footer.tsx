@@ -55,7 +55,7 @@ async function Footer() {
                       )}
                       href={link.value}
                     >
-                      {link.name}
+                      {t(link.name)}
                     </Link>
                   </li>
                   {index < navLinks.length - 1 && (
