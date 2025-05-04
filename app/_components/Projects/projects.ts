@@ -23,7 +23,7 @@ export const projectList: ProjectProps[] = [
     },
     {
         year: '2022',
-        title: 'RimuruBot',
+        title: 'RimuruMusicBot',
         repo: '',
         desc: 'Manage your music and server with Rimuru dashboard from anywhere with Discord optimization!',
         hasRepo: false,
