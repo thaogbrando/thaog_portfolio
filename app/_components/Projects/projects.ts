@@ -16,7 +16,7 @@ export const projectList: ProjectProps[] = [
         title: 'RimuruDashboard',
         repo: '',
         desc: 'Use Rimuru dashboard to manage your bot from anywhere with latest technologies.',
-        hasRepo: true,
+        hasRepo: false,
         freelance: true,
         link: 'https://example.com',
         technologies: ['nextjs', 'tailwind', 'mongodb', 'typescript', 'clerk', 'shadcn']
