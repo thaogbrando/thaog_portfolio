@@ -18,8 +18,15 @@ export const metadata: Metadata = {
   title: "ThaOgBrando",
   description: "Just a hobbyist coder enjoying the little things in life. Sólo un programador oficionado que disfruta de las pequeñas cosas de la vida.",
   openGraph: {
-      images: [`${Logo.src}`],
-    },
+    images: [
+      {
+        url: './public/oglogo.png', // Path relative to the public directory
+        width: 1200,
+        height: 630,
+        alt: 'ThaOgBrando Logo',
+      }
+    ],
+  },
 };
 
 export default async function RootLayout({
