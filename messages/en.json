@@ -1,0 +1,104 @@
+{
+    "Nav": {
+        "Home": "Home",
+        "AboutMe": "About Me",
+        "HonedSkills": "Honed Skills",
+        "Projects": "Projects",
+        "ContactMe": "Contact Me",
+        "More": "More",
+        "Language": "Language",
+        "Screen_Mode": "Screen Mode",
+        "Dark_Mode": "Dark Mode",
+        "Light_Mode": "Light Mode"
+    },
+    "Landing": {
+        "Available": "Available for new projects",
+        "Building": "Building Personal User Experiences",
+        "Passionate": "A Passionate Coder, Musician, and Language Enthusiast enjoying the little things in life.",
+        "Explore": "Explore My Work",
+        "Connect": " Let's Connect",
+        "Just_A_Guy": "Just a guy with a little obsession for turning his imagination into code."
+    },
+    "About": {
+        "Behind_Code": "behind the Code...",
+        "The_Man": "The Man",
+        "About_Body1": "Ayye, Hii! My name is Brandon or otherwise known to some as Brando. I first dabbled in coding back in 2020, but hit a snag. Due to no having a solid grasp of the fundamentals of JavaScript, I ended up quitting. However, I decided to give it another shot in 2021 when I started coding a Discord Bot, and I've been hooked ever since. Now, I'm a hobbyist coder creating websites with React and NextJs or anything else I can get my hands on.",
+        "About_Body2": "In my spare time, I have a passion for playing drums and guitar, which I've been doing for a solid 10 years. I'm currently learning Spanish to become bilingual. When winter comes around, you'll find me shredding the mountains on skis or hunting in the woods.",
+        "See_Hobbies": "See my hobbies",
+        "Close_Hobbies": "Close my hobbies"
+    },
+    "Hobbies": {
+        "Outside_Coding": "Outside of",
+        "Solo_Coding": "coding",
+        "Hobby_Desc": "Exploring various hobbies outdoors which help me maintain a creative balance in my tech-focused life.",
+        "Hiking": "Hiking",
+        "Coding": "Coding",
+        "Languages": "Languages",
+        "Gym": "Gym",
+        "Bake": "Bake",
+        "Instruments": "Instruments",
+        "Volleyball": "Volleyball",
+        "Hunting": "Hunting",
+        "Fishing": "Fishing",
+        "Swim": "Swim",
+        "Skiing": "Skiing",
+        "Gaming": "Gaming"
+    },
+    "Integrations": {
+        "Push": "Push to expand",
+        "Horizons": "horizons",
+        "Skills": "Honed Skills",
+        "Tech_Stack": "My Tech Stack:",
+        "Hobby_Coder": "As a hobbyist coder, I try to stay on my toes and learn new things to challenge myself and my capabilities.",
+        "ReactJs": "React.Js is used for all websites due to its simplicity and outstanding features.",
+        "Sanity": "The best Headless CMS for outstanding backend content management.",
+        "CSS": "Using Vanilla CSS creates one-of-a-kind sites for everyone.",
+        "Github": "Easily collaborate, upload, and share code with others.",
+        "ClerkAuth": "Having the best authentication matters... With Clerk Auth, it is at the finger tips.",
+        "Prism": "Prism for flawless optimization of back-end control of databases.",
+        "MongoDB": "MongoDB is the go to database for its easy setup and dashboard management from any device.",
+        "VisualStudio": "Without using the best IDE, dealines for dream projects get delayed.",
+        "TailwindCss": "The best sites ultilize TailwindCss for getting the job done faster with beautiful results.",
+        "NodeJs": "Node.Js brings the necessary tools to make bots possible on Discord.",
+        "JavaScript": "JavaScript is the secret weapon for increased user experience.",
+        "NextJs": "Proficient in Next.Js v14-15 App Directory with React.Js.",
+        "TypeScript": "Type saftey in large scale projects is the only way to keep ones sanity.",
+        "FramerMotion": "Who wouldn't want the best of the best animation libs for fresh interactivity."
+    },
+    "Projects": {
+        "My_Best": "My Best",
+        "Project": "Projects",
+        "Project_Desc": "I love diving deep into VS Code, turning random ideas floating around in my head into actual stuff that works. Every project is a chance to figure out something new and make cool things happen!",
+        "Freelance": "Freelance",
+        "Client": "For Client",
+        "In_Dev": "In Developement",
+        "Code": "Code",
+        "View_Live": "View live project",
+        "RimuruMusicBot": "Manage your music and server with Rimuru dashboard from anywhere with Discord optimization!",
+        "RimuruDashboard": "The best music bot on Discord to make make your voice channels crowded. With tons of filters,  queue management, music tracking and much more."
+    },
+    "Contact": {
+        "Contact_Me": "Contact Me",
+        "Today": "Today",
+        "Ready_Make": "Ready to make",
+        "Your": "Your",
+        "Dreams_Reality": "dreams a reality?",
+        "Reach_Out": "Reach out to collaborate or create your own digital presence on the World Wide Web!",
+        "Message": "Message via Linkden",
+        "Scroll_Up": "Scroll to top"
+    },
+    "Footer": {
+        "Just_A_Guy": "Just a guy with a little obsession for turning his imagination into code.",
+        "Socials": "Socials",
+        "Dev_Sites": "Dev Sites",
+        "All_Rights": "All rights reserved",
+        "Home": "Home",
+        "Projects": "Projects",
+        "About": "About"
+    },
+    "404": {
+        "Return": "Back",
+        "Knock_Knock": "Knock Knock... Who's there?",
+        "Not_This_Page": "Not this page!"
+    }
+}

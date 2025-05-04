@@ -1,0 +1,104 @@
+{
+    "Nav": {
+        "Home": "Hogar",
+        "AboutMe": "Yo",
+        "HonedSkills": "Habilidades",
+        "Projects": "Proyectos",
+        "ContactMe": "Contáctame",
+        "More": "Más",
+        "Language": "Idioma",
+        "Screen_Mode": "Modo pantalla",
+        "Dark_Mode": "Modo Oscuro",
+        "Light_Mode": "Modo Claro"
+    },
+    "Landing": {
+        "Available": "Disponible para nuevos proyectos",
+        "Building": "Creando Experiencias de Usuario Personales",
+        "Passionate": "Un Apasionado Programador, Músico y Entusiasta de los Idiomas disfrutando de las pequeñas cosas de la vida.",
+        "Explore": "Explora Proyectos",
+        "Connect": "Conectemos",
+        "Just_A_Guy": "Sólo un tipo con una pequeña obsesión por convertir su imaginación en código."
+    },
+    "About": {
+        "Behind_Code": "detrás del Código...",
+        "The_Man": "El Hombre",
+        "About_Body1": "¡Hola! Me llamo Brandon o también me conocen como Brando. Empecé a programar en 2020, pero me encontré con un obstáculo. Debido a no tener un dominio sólido de los fundamentos de JavaScript, terminé renunciando. Sin embargo, decidí intentarlo de nuevo en 2021 cuando comencé a programar un Bot de Discord, y desde entonces estoy enganchado. Ahora, soy un programador aficionado creando sitios web con React y NextJs o cualquier otra cosa que pueda hacer.",
+        "About_Body2": "En mi tiempo libre, tengo una pasión por tocar la batería y la guitarra, lo cual he estado haciendo durante 10 años sólidos. Actualmente estoy aprendiendo español para ser bilingüe. Cuando llega el invierno, me encontrarás deslizándome por las montañas en esquís o cazando en los bosques.",
+        "See_Hobbies": "Ver mis hobbies",
+        "Close_Hobbies": "Cerrar mis hobbies"
+    },
+    "Hobbies": {
+        "Outside_Coding": "Fuera del",
+        "Solo_Coding": "código",
+        "Hobby_Desc": "Explorando varios pasatiempos al aire libre que me ayudan a mantener un equilibrio creativo en mi vida enfocada en tecnología.",
+        "Hiking": "Caminata",
+        "Coding": "Programar",
+        "Languages": "Idiomas",
+        "Gym": "Gym",
+        "Bake": "Cocinar",
+        "Instruments": "Guitarra",
+        "Volleyball": "Voleibol",
+        "Hunting": "Caza",
+        "Fishing": "Pesca",
+        "Swim": "Nadar",
+        "Skiing": "Esquí",
+        "Gaming": "Videojuegos"
+    },
+    "Integrations": {
+        "Push": "Expandir para ver más",
+        "Horizons": "horizontes",
+        "Skills": "Habilidades Perfeccionadas",
+        "Tech_Stack": "Mi pila tecnológica:",
+        "Hobby_Coder": "Como programador aficionado, intento mantenerme alerta y aprender nuevas cosas para desafiarme a mí mismo y mis capacidades.",
+        "ReactJs": "React.Js se utiliza para todos los sitios web debido a su simplicidad y características destacadas.",
+        "Sanity": "El mejor CMS Headless para una gestión de contenido backend excepcional.",
+        "CSS": "Usar CSS Vanilla crea sitios únicos para cada persona.",
+        "Github": "Colaborar fácilmente, subir y compartir código con otros.",
+        "ClerkAuth": "Tener la mejor autenticación es importante... Con Clerk Auth, está al alcance de tus dedos.",
+        "Prism": "Prism para la optimización perfecta del control backend de bases de datos.",
+        "MongoDB": "MongoDB es la base de datos por excelencia por su configuración sencilla y gestión de panel desde cualquier dispositivo.",
+        "VisualStudio": "Sin usar el mejor IDE, los plazos para proyectos soñados se retrasan.",
+        "TailwindCss": "Los mejores sitios utilizan TailwindCss para realizar el trabajo más rápido con resultados hermosos.",
+        "NodeJs": "Node.Js proporciona las herramientas necesarias para hacer bots posibles en Discord.",
+        "JavaScript": "JavaScript es el arma secreta para aumentar la experiencia del usuario.",
+        "NextJs": "Proficiente en Next.Js v14-15 Directorio de Aplicaciones con React.Js.",
+        "TypeScript": "La seguridad de tipos en proyectos a gran escala es la única manera de mantener la cordura.",
+        "FramerMotion": "¿Quién no querría las mejores bibliotecas de animación para una interactividad fresca?"
+    },
+    "Projects": {
+        "My_Best": "Mis Mejores",
+        "Project": "Proyectos",
+        "Project_Desc": "Me encanta sumergirme en VS Code, convirtiendo las ideas aleatorias que flotan en mi cabeza en algo que realmente funciona. ¡Cada proyecto es una oportunidad de descubrir algo nuevo y hacer que las cosas sucedan!",
+        "Freelance": "Freelance",
+        "Client": "Para Cliente",
+        "In_Dev": "En Desarrollo",
+        "Code": "Código",
+        "View_Live": "Ver proyecto",
+        "RimuruMusicBot": "¡Administra tu música y servidor con el panel de control de Rimuru desde cualquier lugar con optimización para Discord!",
+        "RimuruDashboard": "El mejor bot de música para Discord para llenar tus canales de voz. Con toneladas de filtros, gestión de cola, seguimiento de música y mucho más."
+    },
+    "Contact": {
+        "Contact_Me": "Contáctame",
+        "Today": "Hoy",
+        "Ready_Make": "Listo para hacer",
+        "Your": "tus",
+        "Dreams_Reality": "sueños realidad?",
+        "Reach_Out": "¡Contáctame para colaborar o crear tu propia presencia digital en el mundo!",
+        "Message": "Enviar con LinkedIn",
+        "Scroll_Up": "Subir arriba"
+    },
+    "Footer": {
+        "Just_A_Guy": "Sólo un tipo con una pequeña obsesión por convertir su imaginación en código.",
+        "Socials": "Sociales",
+        "Dev_Sites": "Dev Sitios",
+        "All_Rights": "Todos los derechos reservados",
+        "Home": "Hogar",
+        "Projects": "Proyectos",
+        "About": "Sobre Mí"
+    },
+    "404": {
+        "Return": "Volver",
+        "Knock_Knock": "¡Toc Toc! ¿Quién es?",
+        "Not_This_Page": "¡No esta página!"
+    }
+}
