@@ -95,7 +95,7 @@ const TiltProjectCard = ({ title, year, hasRepo, freelance, link, repo, desc, te
                     <TechBadges technologies={tech} />
                 </div>
 
-                <div className="flex flex-col gap-6 mb-6">
+                <div className="flex flex-col gap-6">
                     <div className="flex space-x-2 mt-auto">
                         <Button
                             href={link}
