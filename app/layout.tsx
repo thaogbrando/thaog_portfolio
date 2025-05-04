@@ -18,14 +18,26 @@ export const metadata: Metadata = {
   title: "ThaOgBrando",
   description: "Just a hobbyist coder enjoying the little things in life. Sólo un programador oficionado que disfruta de las pequeñas cosas de la vida.",
   openGraph: {
+    title: 'ThaOgBrando',
+    description: 'Just a hobbyist coder enjoying the little things in life. Sólo un programador oficionado que disfruta de las pequeñas cosas de la vida.',
+    url: 'https://thaogbrando.com',
+    siteName: 'thaogbrando',
     images: [
       {
-        url: `https://thaogbrando.com/oglogo.png`, // Path relative to the public directory
+        url: 'https://thaogbrando/oglogo.png',
         width: 1200,
         height: 630,
-        alt: 'ThaOgBrando Logo',
-      }
+        alt: 'Your Logo',
+      },
     ],
+    locale: 'en_US',
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'ThaOgBrand',
+    description: 'Just a hobbyist coder enjoying the little things in life. Sólo un programador oficionado que disfruta de las pequeñas cosas de la vida.',
+    images: ['https://thaogbrando/oglogo.png'], 
   },
 };
 
