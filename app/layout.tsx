@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   title: "ThaOgBrando",
   description: "Just a hobbyist coder enjoying the little things in life. Sólo un programador oficionado que disfruta de las pequeñas cosas de la vida.",
   openGraph: {
-      images: [`${Logo}`],
+      images: [`${Logo.src}`],
     },
 };
 
