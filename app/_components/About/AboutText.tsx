@@ -53,7 +53,7 @@ const AboutMeText = () => {
                 <Image
                     alt='my in my handsome self'
                     src={Me}
-                    className="row-start-1 max-w-[360px] md:max-w-sm md:col-start-2 md:row-end-3 -rotate-2 hover:rotate-0 transition-all ease-in-out duration-500 aspect-square overflow-hidden rounded-3xl border-2 border-dark-secondary hover:grayscale mx-auto md:mx-0"
+                    className="row-start-1 max-w-[360px] md:max-w-sm md:col-start-2 md:row-end-3 -rotate-2 hover:rotate-0 transition-all ease-in-out duration-500 aspect-square overflow-hidden rounded-3xl border-2 border-dark-secondary hover:grayscale mx-4 md:mx-0"
                 />
             </div>
             <button
