@@ -7,7 +7,7 @@ import { NextIntlClientProvider } from 'next-intl';
 import { getLocale, getMessages } from 'next-intl/server';
 import Footer from './_components/Footer/Footer';
 import Logo from "@/public/oglogo.png"
-
+ 
 const inter = Tektur({
   subsets: ['latin'],
   weight: '400',
