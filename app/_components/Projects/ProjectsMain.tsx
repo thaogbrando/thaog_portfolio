@@ -29,7 +29,7 @@ const ProjectsMain = () => {
       whileInView="show"
       viewport={{ once: true }}
       id='projects'
-      className='py-40 min-h-screen max-w-[1200px] px-4 lg:px-0 mx-auto'
+      className='py-16 md:py-40 min-h-screen max-w-[1200px] px-4 lg:px-0 mx-auto'
     >
       <div className='w-full flex flex-col items-center'>
         <motion.h2
