@@ -17,8 +17,8 @@ const AnimatedString = ({ text, className = "", delay = 0 }: AnimatedStringProps
     setAnimationKey(Date.now().toString());
   }, []);
 
-  // Split text into individual letters for animation
-  const letters = text.split("");
+  // Split text into words first
+  const words = text.split(" ");
 
   // Set up letter animation variants
   const letterVariants = {
@@ -34,20 +34,37 @@ const AnimatedString = ({ text, className = "", delay = 0 }: AnimatedStringProps
     })
   };
 
+  // Keep track of the overall letter index across all words
+  let letterCounter = 0;
+
   return (
     <div className={className} key={animationKey}>
-      {letters.map((letter, index) => (
-        <motion.span
-          key={`letter-${index}`}
-          variants={letterVariants}
-          initial="hidden"
-          animate="visible"
-          custom={index}
-          className="inline-block"
-        >
-          {letter === " " ? "\u00A0" : letter}
-        </motion.span>
-      ))}
+      {words.map((word, wordIndex) => {
+        // Create an array of letters for each word
+        const letters = word.split("");
+        
+        return (
+          <span key={`word-${wordIndex}`} className="inline-block whitespace-nowrap mr-1">
+            {letters.map((letter, letterIndex) => {
+              const currentLetterIndex = letterCounter;
+              letterCounter++;
+              
+              return (
+                <motion.span
+                  key={`letter-${wordIndex}-${letterIndex}`}
+                  variants={letterVariants}
+                  initial="hidden"
+                  animate="visible"
+                  custom={currentLetterIndex}
+                  className="inline-block"
+                >
+                  {letter}
+                </motion.span>
+              );
+            })}
+          </span>
+        );
+      })}
     </div>
   );
 };
