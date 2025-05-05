@@ -44,6 +44,7 @@ const AboutMain = () => {
             {t('Tech_Stack')}
           </h2>
         </div>
+        <Tech />
       </div>
     </motion.section>
   )
