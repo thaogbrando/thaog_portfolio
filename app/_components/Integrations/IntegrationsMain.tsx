@@ -29,7 +29,7 @@ const AboutMain = () => {
               </div>
               <p className='text-sm font-medium text-light-text dark:text-dark-text'>{t('Skills')}</p>
             </div>
-            <h2 className='text-7xl md:text-8xl font-bold mt-6 text-light-text dark:text-dark-text'>{t('Push')} <span className='text-blue-primary dark:text-light-accent'>{t('Horizons')}</span></h2>
+            <h2 className='text-6xl md:text-8xl font-bold mt-6 text-light-text dark:text-dark-text'>{t('Push')} <span className='text-blue-primary dark:text-light-accent'>{t('Horizons')}</span></h2>
             <p className='text-light-text dark:text-dark-text mt-4 text-lg'>{t('Hobby_Coder')}</p>
           </div>
           <div>
@@ -39,12 +39,6 @@ const AboutMain = () => {
             </div>
           </div>
         </div>
-        <div className='mt-20 md:mt-[200px]'>
-          <h2 className="mb-2 text-xl font-semibold lg:text-3xl pb-10 text-blue-primary dark:text-light-accent">
-            {t('Tech_Stack')}
-          </h2>
-        </div>
-        <Tech />
       </div>
     </motion.section>
   )
