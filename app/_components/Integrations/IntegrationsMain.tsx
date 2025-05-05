@@ -45,7 +45,6 @@ const AboutMain = () => {
           </h2>
         </div>
       </div>
-      <Tech />
     </motion.section>
   )
 }
