@@ -46,7 +46,7 @@ const ProjectsMain = () => {
         <AnimatedString
           text={t('Project_Desc')}
           delay={0.2}
-          className='text-center text-light-text dark:text-dark-text text-lg mt-6 max-w-md lg:max-w-xl mx-auto md:mx-0'
+          className='text-center prose prose-lg text-light-text dark:text-dark-text text-lg mt-6 max-w-md lg:max-w-xl mx-auto md:mx-0'
         />
 
 
