@@ -63,7 +63,7 @@ const TiltProjectCard = ({ title, year, hasRepo, freelance, link, repo, desc, te
     }
 
     return (
-        <div ref={cardRef} className='relative cursor-pointer w-[330px] md:w-96 h-[460px] md:h-[435px] bg-dark-primary/20 dark:bg-dark-accent/20 backdrop-blur-xl overflow-hidden rounded-3xl shadow-2xl'
+        <div ref={cardRef} className='relative cursor-pointer w-[337px] md:w-96 h-[460px] md:h-[435px] bg-dark-primary/20 dark:bg-dark-accent/20 backdrop-blur-xl overflow-hidden rounded-3xl shadow-2xl'
   style={{
     transform: `perspective(1200px) rotateX(${tilt.x}deg) rotateY(${tilt.y}deg)`,
     boxShadow: isHovered ? (!isDarkMode ? lightModeShadow : darkModeShadow) : ''
