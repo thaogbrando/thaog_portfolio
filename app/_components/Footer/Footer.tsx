@@ -44,7 +44,7 @@ async function Footer() {
               © {new Date().getFullYear()} ThaOgBrando
             </p>
           </div>
-          <nav className="navigation place-items-center" aria-label="Footer Navigation">
+          <nav className=place-items-center" aria-label="Footer Navigation">
             <ul className="flex justify-center items-center gap-1">
               {navLinks.map((link, index) => (
                 <React.Fragment key={`${index}_${link.value}`}>
@@ -70,7 +70,7 @@ async function Footer() {
               ))}
             </ul>
           </nav>
-          <div className="socials inline-flex justify-center lg:justify-end">
+          <div className=" inline-flex justify-center lg:justify-end">
             <Link
               href={'https://github.com/thaogbrando'}
               className="p-2 text-2xl transition-all duration-150 hover:scale-125 hover:dark:text-dark-secondary hover:text-blue-secondary"
