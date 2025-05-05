@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Tektur } from "next/font/google";
+import { Tektur } from "next/font/google"; 
 import Navbar from '@/app/_components/Navbar/Navbar'
 import "./globals.css";
 import { ThemeProvider } from "@/hooks/themeProvider"
