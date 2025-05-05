@@ -51,7 +51,7 @@ async function Footer() {
                   <li>
                     <Link
                       className={clsx(
-                        "group relative block overflow-hidden rounded px-3 py-1 text-base font-bold transition-colors duration-150 text-light-text dark:text-dark-text hover:text-dark-secondary hover:dark:text-blue-secondary",
+                        "group relative block overflow-hidden rounded px-3 py-1 text-sm md:text-base font-bold transition-colors duration-150 text-light-text dark:text-dark-text hover:text-dark-secondary hover:dark:text-blue-secondary",
                       )}
                       href={link.value}
                     >
