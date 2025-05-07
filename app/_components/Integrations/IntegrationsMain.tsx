@@ -34,7 +34,8 @@ const AboutMain = () => {
           </div>
           <div>
             <div className='h-[400px] lg:h-[500px] mt-8 lg:mt-0 overflow-hidden grid md:grid-cols-2 gap-4 [mask-image:linear-gradient(to_bottom,transparent,black_10%,black_90%,transparent)]'>
-              <Integrations integrations={integrations} />
+              <Integrations integrations={[...integrations, ...intergrations2]} className='flex md:hidden' />
+              <Integrations integrations={integrations} className='hidden md:flex' />
               <Integrations integrations={intergrations2} className='hidden md:flex' />
             </div>
           </div>
