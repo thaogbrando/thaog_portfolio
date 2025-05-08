@@ -99,6 +99,5 @@ export const myTechStack = [
     },
 ]
 
-export type IntergrationsType = typeof integrations;
 
 export type IntergrationsType = typeof integrations;
