@@ -34,7 +34,7 @@ const AboutMain = () => {
           </div>
           <div>
             <div className='h-[400px] lg:h-[500px] mt-8 lg:mt-0 overflow-hidden gap-4 [mask-image:linear-gradient(to_bottom,transparent,black_10%,black_90%,transparent)]'>
-              <Integrations reverse integrations={myTechStack} className='hidden md:flex' />
+              <Integrations reverse integrations={myTechStack} className='flex' />
             </div>
           </div>
         </div>
