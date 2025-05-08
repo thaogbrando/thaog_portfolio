@@ -40,8 +40,8 @@ const TiltProjectCard = ({ title, year, hasRepo, freelance, link, repo, desc, te
             const y = e.clientY - rect.top;
             const centerX = rect.width / 2;
             const centerY = rect.height / 2;
-            const tiltX = (y - centerY) / 10;
-            const tiltY = -(centerX - x) / 10;
+            const tiltX = (y - centerY) / 15;
+            const tiltY = -(centerX - x) / 15;
             setTilt({ x: tiltX, y: tiltY });
         };
 
