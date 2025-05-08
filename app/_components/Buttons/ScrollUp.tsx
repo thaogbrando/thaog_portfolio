@@ -10,7 +10,7 @@ const ScrollUp = () => {
     const t = useTranslations('Contact')
     
     return (
-        <div className='flex flex-row items-center justify-center mx-auto mb-12 mt-20'>
+        <div className='flex flex-row items-center justify-center mx-auto'>
             <Link
                 className="cursor-pointer"
                 spy={true}
