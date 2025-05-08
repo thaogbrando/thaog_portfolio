@@ -1,6 +1,5 @@
 import React from 'react'
 import { Icon } from '@iconify/react';
-import { Tooltip } from '../Extras/Tooltip';
 
 const SkillCard = ({ icon, title, tech }: { icon: string, title: string, tech: string[] }) => {
     return (
