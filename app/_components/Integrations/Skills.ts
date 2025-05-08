@@ -2,11 +2,6 @@
 
 export const integrations = [
     {
-        name: 'VisualStudio',
-        icon: 'skill-icons:vscode-dark',
-        desc: 'Without using the best IDE, dealines for dream projects get delayed.'
-    },
-    {
         name: 'TailwindCss',
         icon: 'devicon:tailwindcss',
         desc: 'The best sites ultilize TailwindCss for getting the job done faster with beautiful results.'
@@ -55,19 +50,14 @@ export const intergrations2 = [
         desc: 'Using Vanilla CSS creates one-of-a-kind sites for everyone.'
     },
     {
-        name: 'Github',
-        icon: 'ri:github-fill',
-        desc: 'Easily collaborate, upload, and share code with others.'
-    },
-    {
         name: 'ClerkAuth',
         icon: 'simple-icons:clerk',
         desc: 'Having the best authentication matters... With Clerk Auth, it is at the finger tips.'
     },
     {
-        name: 'Prism',
+        name: 'Prisma',
         icon: 'ion:prism',
-        desc: 'Prism for flawless optimization of back-end control of databases.'
+        desc: 'Prisma for flawless optimization of back-end control of databases.'
     },
     {
         name: 'MongoDB',
@@ -75,5 +65,40 @@ export const intergrations2 = [
         desc: 'MongoDB is the go to database for its easy setup and dashboard management from any device.'
     }
 ]
+
+export const myTechStack = [
+    {
+        name: 'ReactJs',
+        icon: 'devicon:react',
+        desc: 'React.Js is used for all websites due to its simplicity and outstanding features.'
+    },
+    {
+        name: 'ClerkAuth',
+        icon: 'simple-icons:clerk',
+        desc: 'Having the best authentication matters... With Clerk Auth, it is at the finger tips.'
+    },
+    {
+        name: 'MongoDB',
+        icon: 'logos:mongodb-icon',
+        desc: 'MongoDB is the go to database for its easy setup and dashboard management from any device.'
+    },
+    {
+        name: 'TypeScript',
+        icon: 'skill-icons:typescript',
+        desc: 'Type saftey in large scale projects is the only way to keep ones sanity.'
+    },
+    {
+        name: 'TailwindCss',
+        icon: 'devicon:tailwindcss',
+        desc: 'The best sites ultilize TailwindCss for getting the job done faster with beautiful results.'
+    },
+    {
+        name: 'NextJs',
+        icon: 'logos:nextjs-icon',
+        desc: 'Proficient in Next.Js v14-15 App Directory with React.Js.'
+    },
+]
+
+export type IntergrationsType = typeof integrations;
 
 export type IntergrationsType = typeof integrations;
