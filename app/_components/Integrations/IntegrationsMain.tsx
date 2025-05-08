@@ -18,7 +18,7 @@ const AboutMain = () => {
       whileInView="show"
       viewport={{ once: true }}
       id='skills'
-      className=' overflow-hidden px-4 lg:px-0 pt-40 pb-6 flex items-center min-h-screen mx-auto'>
+      className=' overflow-hidden px-4 lg:px-0 pt-16 pb-6 flex items-center min-h-screen mx-auto'>
       <div className='px-4 max-w-[1200px] mx-auto'>
         <div
           className='grid lg:grid-cols-2 items-center lg:gap-16'>
