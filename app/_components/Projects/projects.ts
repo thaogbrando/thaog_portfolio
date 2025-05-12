@@ -18,7 +18,7 @@ export const projectList: ProjectProps[] = [
         desc: 'Use Rimuru dashboard to manage your bot from anywhere with latest technologies.',
         hasRepo: false,
         freelance: true,
-        link: 'https://example.com',
+        link: 'https://rimurubot.com',
         technologies: ['nextjs', "framermotion", 'mongodb', 'typescript', 'clerk', "react", "tailwind", 'shadcn']
     },
     {
@@ -29,7 +29,7 @@ export const projectList: ProjectProps[] = [
         hasRepo: false,
         freelance: true,
     
-        link: 'https://example.com',
+        link: 'https://discord.com/users/944006750921687081',
         technologies: ['mongodb', 'nodejs', 'discordjs', 'javascript']
     }
 ]
