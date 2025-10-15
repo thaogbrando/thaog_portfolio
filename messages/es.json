@@ -76,7 +76,8 @@
         "Code": "Código",
         "View_Live": "Ver proyecto",
         "RimuruMusicBot": "¡Rimuru, la mejor música, anime Discord bot! Reproduce música de diferentes plataformas y Twitch steams. ¡Invita ahora gratis!",
-        "RimuruDashboard": "Utiliza el panel de control Rimuru para gestionar tu bot desde cualquier lugar con las últimas tecnologías."
+        "RimuruDashboard": "Utiliza el panel de control Rimuru para gestionar tu bot desde cualquier lugar con las últimas tecnologías.",
+        "TrustGodDaily": "¡La única herramienta de estudio bíblico que necesitarás jamás! ¡Guarda versículos, gana premios y añade amigos, todo en una sola app!"
     },
     "Contact": {
         "Contact_Me": "Contáctame",
@@ -104,3 +105,4 @@
         "Not_This_Page": "¡No esta página!"
     }
 }
+
