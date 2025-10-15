@@ -19,7 +19,7 @@ export const projectList: ProjectProps[] = [
         hasRepo: false,
         freelance: true,
         link: 'https://trustgoddaily.com',
-        technologies: ['nextjs', "framermotion", 'mongodb', 'typescript', 'clerk', "react", "tailwind"]
+        technologies: ['nextjs', "framermotion", 'mongodb', 'typescript', 'clerk', "react", "tailwind", "zod", "stripe"]
     },
     {
         year: '2024',
@@ -43,4 +43,5 @@ export const projectList: ProjectProps[] = [
         technologies: ['mongodb', 'nodejs', 'discordjs', 'javascript']
     }
 ]
+
 
