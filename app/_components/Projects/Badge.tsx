@@ -29,6 +29,9 @@ const techIcons: Record<string, string> = {
   php: "logos:php",
   laravel: "logos:laravel",
   dotnet: "logos:dotnet",
+  zod: "logos:zod",
+  stripe: "logos:stripe",
+
   // Database
   mongodb: "logos:mongodb-icon",
   mysql: "logos:mysql-icon",
@@ -188,5 +191,6 @@ const TechBadges = ({ technologies, className = "" }: TechBadgesProps) => {
     </div>
   );
 };
+
 
 export default TechBadges;
