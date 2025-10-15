@@ -76,7 +76,8 @@
         "Code": "Code",
         "View_Live": "View live project",
         "RimuruMusicBot": "Rimuru, the best music, anime Discord bot! Play music from different platforms & Twitch steams. Invite now for free!",
-        "RimuruDashboard": "Use Rimuru dashboard to manage your bot from anywhere with latest technologies."
+        "RimuruDashboard": "Use Rimuru dashboard to manage your bot from anywhere with latest technologies.",
+        "TrustGodDaily": "The only Bible study tool you will ever need! Save scriptures, earn awards, add friends all in one app!"
     },
     "Contact": {
         "Contact_Me": "Contact Me",
@@ -104,3 +105,4 @@
         "Not_This_Page": "Not this page!"
     }
 }
+
