@@ -11,6 +11,16 @@ type ProjectProps = {
 }
 
 export const projectList: ProjectProps[] = [
+       {
+        year: '2025',
+        title: 'TrustGodDaily',
+        repo: '',
+        desc: 'The only Bible study tool you will ever need! Save scriptures, earn awards, add friends all in one app!',
+        hasRepo: false,
+        freelance: true,
+        link: 'https://trustgoddaily.com',
+        technologies: ['nextjs', "framermotion", 'mongodb', 'typescript', 'clerk', "react", "tailwind"]
+    },
     {
         year: '2024',
         title: 'RimuruDashboard',
@@ -33,3 +43,4 @@ export const projectList: ProjectProps[] = [
         technologies: ['mongodb', 'nodejs', 'discordjs', 'javascript']
     }
 ]
+
